@@ -1,1 +1,12 @@
 # Search-Expedia-Optimization---Predictive-Modeling-Final-Project
+In this project, our team took on a Kaggle competition from a few years back. The goal was to utilize consumer browsing patterns and search criteria to accurately predict which hotel cluster a consumer would end up booking from. Successfully predicting the hotel cluster would allow Expedia to optimize search results, listing hotels a customer is more likely to book, leading to greater conversion rates and greater customer satisfaction. We utilized a variety of machine learning techniques to try and come up with the best prediction.
+
+## Group Members:
+Pete Davis\
+Andrew Han\
+Steve Sohn\
+Matthew Streichler\
+Dian Zhao\
+
+[Link to our blog](https://petedavis22.medium.com/seo-search-expedia-optimization-779d728b1374)
+[Link to Datasets](https://www.kaggle.com/c/expedia-hotel-recommendations/data)
